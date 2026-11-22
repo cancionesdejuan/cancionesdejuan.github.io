@@ -1,5 +1,15 @@
 ---
+album: A La Sombra De
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: QZPJ32394385
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
 spotify: 5bOGszDi8jJ0lFqAFEnvxN
+track: 1
+url: https://cancionesdejuan.com
 ---
 
 (Em  Bm7_Am7  Em  Bm7_Am7)  (Em  Bm7_Am7  Am7  Bm7)
