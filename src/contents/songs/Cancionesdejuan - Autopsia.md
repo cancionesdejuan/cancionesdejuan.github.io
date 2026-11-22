@@ -10,6 +10,7 @@ musicians: cancionesdejuan
 spotify: 0QWtbZfgGr8IP59Je5oRAK
 track: 1
 url: https://cancionesdejuan.com
+youtube: UmNjJN3YNek
 ---
 
 (C#m  D  C#m  D)  (C#m!)

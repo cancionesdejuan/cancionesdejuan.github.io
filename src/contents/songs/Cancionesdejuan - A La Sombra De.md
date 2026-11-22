@@ -10,6 +10,7 @@ musicians: cancionesdejuan
 spotify: 5bOGszDi8jJ0lFqAFEnvxN
 track: 1
 url: https://cancionesdejuan.com
+youtube: Iy4bB1g4KRE
 ---
 
 (Em  Bm7_Am7  Em  Bm7_Am7)  (Em  Bm7_Am7  Am7  Bm7)

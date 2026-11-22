@@ -10,6 +10,7 @@ musicians: cancionesdejuan
 spotify: 7finTgPTmkMOoxcMctX5VG
 track: 1
 url: https://cancionesdejuan.com
+youtube: Nu2hBFL0UMg
 ---
 
 (Am_..  Am_..  Am_..  Am_..)

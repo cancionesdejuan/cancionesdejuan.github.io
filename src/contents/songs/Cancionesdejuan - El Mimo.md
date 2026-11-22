@@ -10,6 +10,7 @@ musicians: cancionesdejuan
 spotify: TBC
 track: 1
 url: https://cancionesdejuan.com
+youtube: LYjNJ4lLfrw
 ---
 
 (C#sus2  Asus2)

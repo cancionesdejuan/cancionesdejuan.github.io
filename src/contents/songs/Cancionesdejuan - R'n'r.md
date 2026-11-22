@@ -10,6 +10,7 @@ musicians: cancionesdejuan
 spotify: 3TWimONdafIGvPXBSrmo7O
 track: 1
 url: https://cancionesdejuan.com
+youtube: p_3RNFC8Gt4
 ---
 
 Yeah, yeah, yeah, yeah!!!
