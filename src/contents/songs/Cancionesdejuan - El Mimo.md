@@ -3,7 +3,7 @@ album: TBC
 artist: cancionesdejuan
 author: cancionesdejuan
 bpm: unknown
-isrc: QZPJ32394385
+isrc: TBC
 lang: Español
 license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 musicians: cancionesdejuan
