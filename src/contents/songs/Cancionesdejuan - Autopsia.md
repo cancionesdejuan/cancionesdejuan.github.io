@@ -1,5 +1,15 @@
 ---
+album: Autopsia
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: QZPJ32473098
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
 spotify: 0QWtbZfgGr8IP59Je5oRAK
+track: 1
+url: https://cancionesdejuan.com
 ---
 
 (C#m  D  C#m  D)  (C#m!)

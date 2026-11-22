@@ -1,4 +1,19 @@
+---
+album: TBC
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: QZPJ32394385
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
+spotify: TBC
+track: 1
+url: https://cancionesdejuan.com
+---
+
 (C#sus2  Asus2)
+
 No veas el miedo que me da - no quiero -
 despertar dentro de cinco años
 con quince años más - ni nunca -

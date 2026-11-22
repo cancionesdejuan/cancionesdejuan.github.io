@@ -1,5 +1,15 @@
 ---
+album: R'n'R
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: QZPJ32424217
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
 spotify: 3TWimONdafIGvPXBSrmo7O
+track: 1
+url: https://cancionesdejuan.com
 ---
 
 Yeah, yeah, yeah, yeah!!!

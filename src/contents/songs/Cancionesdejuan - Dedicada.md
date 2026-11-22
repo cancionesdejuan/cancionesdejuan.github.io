@@ -1,5 +1,15 @@
 ---
+album: Dedicada
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: QZPJ32295267
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
 spotify: 4pQjjXcdPI12C1lgHM0op5
+track: 1
+url: https://cancionesdejuan.com
 ---
 
 (Am)

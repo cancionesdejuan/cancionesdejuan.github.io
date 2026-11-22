@@ -1,3 +1,17 @@
+---
+album: Kataklismo
+artist: cancionesdejuan
+author: cancionesdejuan
+bpm: unknown
+isrc: CH6542753831
+lang: Español
+license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+musicians: cancionesdejuan
+spotify: 7finTgPTmkMOoxcMctX5VG
+track: 1
+url: https://cancionesdejuan.com
+---
+
 (Am_..  Am_..  Am_..  Am_..)
 
 (Am_Am_Am_..  Am_Am_Am_..  G_G_G_..  F_F_F..)  (G_G_G_..  ..)
