@@ -3,6 +3,7 @@ album: A La Sombra De
 artist: cancionesdejuan
 author: cancionesdejuan
 bpm: unknown
+duration: 4:07
 isrc: QZPJ32394385
 lang: Español
 license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License

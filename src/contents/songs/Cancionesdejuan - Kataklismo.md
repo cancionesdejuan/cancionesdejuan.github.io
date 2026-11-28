@@ -3,6 +3,7 @@ album: Kataklismo
 artist: cancionesdejuan
 author: cancionesdejuan
 bpm: unknown
+duration: 3:10
 isrc: CH6542753831
 lang: Español
 license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License

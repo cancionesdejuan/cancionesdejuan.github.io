@@ -3,6 +3,7 @@ album: R'n'R
 artist: cancionesdejuan
 author: cancionesdejuan
 bpm: unknown
+duration: 3:14
 isrc: QZPJ32424217
 lang: Español
 license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License

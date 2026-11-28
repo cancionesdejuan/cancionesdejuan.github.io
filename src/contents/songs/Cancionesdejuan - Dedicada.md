@@ -3,6 +3,7 @@ album: Dedicada
 artist: cancionesdejuan
 author: cancionesdejuan
 bpm: unknown
+duration: 4:00
 isrc: QZPJ32295267
 lang: Español
 license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
